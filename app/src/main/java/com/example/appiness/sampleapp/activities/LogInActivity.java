@@ -13,6 +13,7 @@ import com.example.appiness.sampleapp.R;
 
 public class LogInActivity extends AppCompatActivity
 {
+    /*log in activity*/
     private Context context = LogInActivity.this;
 
     private EditText userName,password;
