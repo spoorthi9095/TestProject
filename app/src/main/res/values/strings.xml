@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="hint_user_name">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="add_details">Add user details:</string>
+    <string name="dob">Date of Birth:</string>
+    <string name="hint_about_me">About me:</string>
+    <string name="hint_name">Name:</string>
+    <string name="save_details">Save Details</string>
+</resources>
